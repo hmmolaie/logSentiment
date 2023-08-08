@@ -1,0 +1,17 @@
+# created by AXIGEN version 10.4.16
+2023-08-05 12:31:39 +0330 02 mailserver SECURITY:IMAP;000055FE;192.168.1.57;3341;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:33:33 +0330 02 mailserver SECURITY:IMAP;00009902;192.168.1.57;2541;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:35:11 +0330 02 mailserver SECURITY:IMAP;00009904;192.168.1.57;2389;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:36:55 +0330 02 mailserver SECURITY:IMAP;00009908;192.168.1.57;2478;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:38:47 +0330 02 mailserver SECURITY:IMAP;0000990E;192.168.1.57;2476;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:40:27 +0330 02 mailserver SECURITY:IMAP;00009914;192.168.1.57;2700;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:40:37 +0330 02 mailserver SECURITY:IMAP;00009915;10.10.1.1;4672;OP_OK;tabatabaeipour@test.xyz;;Authentication successful; 
+2023-08-05 12:40:38 +0330 02 mailserver SECURITY:IMAP;00009916;10.10.1.1;4873;OP_OK;tabatabaeipour@test.xyz;;Authentication successful; 
+2023-08-05 12:40:39 +0330 02 mailserver SECURITY:IMAP;00009917;10.10.1.1;4674;OP_OK;tabatabaeipour@test.xyz;;Authentication successful; 
+2023-08-05 12:42:33 +0330 02 mailserver SECURITY:IMAP;0000991B;192.168.1.57;2795;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:43:30 +0330 02 mailserver SECURITY:IMAP;0000991E;192.168.2.78;5950;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 12:46:05 +0330 02 mailserver SECURITY:SMTP-IN;00009933;10.10.1.2;4514;OP_FAIL;scanner@test.xyz;;Authentication error; Account not found locally
+2023-08-05 12:50:58 +0330 02 mailserver SECURITY:IMAP;0000992E;192.168.2.78;5805;OP_OK;info@test.xyz;;Authentication successful; 
+2023-08-05 13:03:38 +0330 02 mailserver SECURITY:POP3;00009967;192.168.1.14;5877;OP_FAIL;m.admin.1993@test.xyz;;Authentication error; Invalid password
+2023-08-05 13:03:38 +0330 02 mailserver SECURITY:POP3;00009968;192.168.1.14;5078;OP_FAIL;m.admin.1993@test.xyz;;Authentication error; Invalid password
+2023-08-05 13:06:23 +0330 02 mailserver SECURITY:POP3;00009970;192.168.1.160;6189;OP_OK;sales@test.xyz;;Authentication successful; 
